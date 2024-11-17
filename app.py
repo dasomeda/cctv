@@ -4,7 +4,7 @@ import time
 
 
 
-st.title("통합데이터 서비스")
+st.title("우리집 근처 데이터 서비스")
 st.image('image.jpg')
 
 data = pd.read_csv("members.csv")
